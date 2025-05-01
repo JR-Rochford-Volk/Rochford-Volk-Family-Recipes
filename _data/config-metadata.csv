@@ -1,15 +1,19 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
-date,Date Created,
+contributor,Contributor,
+recipedate,Date Created,
 description,Description,
+genre,Genre,
 subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
+ingredient,Ingredients,true
+directions,Directions,true
 source,Source
 identifier,Source Identifier,,
 type,Type,
 format,Format,
+measurement,Card Measurements,
+scandate,Date Scanned,
+uploaddate,Date Uploaded,
 rights,Rights,
 rightsstatement,Rights Statement,,true
